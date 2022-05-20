@@ -1,4 +1,4 @@
-//IT21894510_Jayawardena R.R.A.N
+//IT21894510_Jayawardena R.R.A.N.N
 #include <iostream>
 #include<cstring>
 #include "Reservation.h"
