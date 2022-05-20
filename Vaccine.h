@@ -1,4 +1,4 @@
-//IT221894510_Jayawardena R.R.A.N
+//IT221894510_Jayawardena R.R.A.N.N
 using namespace std;
 class Vaccine {
 public:
