@@ -1,4 +1,4 @@
-//IT2145882_Thilakarathna H.A.C.S.M
+//IT21454882_Thilakarathna H.A.C.S.M
 #include <iostream>
 #include <cstring>
 #include “Payment.h”
